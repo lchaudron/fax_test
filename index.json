@@ -1,14 +1,16 @@
 {
-  "version": 1,
+  "version": 2,
   "envois": [
     {
       "id": "A",
-      "date": "2026-08-29T14:32:00Z",
       "items": [
         { "id": "a1", "type": "photo", "format": "4g",
-          "pages": ["a1.bin"], "legende": "Le chat" },
-        { "id": "a2", "type": "postale", "format": "4g",
-          "pages": ["a2p1.bin", "a2p2.bin"], "legende": "Vacances" }
+          "pages": ["a1.bin"],
+          "legende": "Le chat sur le rebord de la fenêtre",
+          "date": "12 juillet 2026" },
+        { "id": "a2", "type": "postale", "format": "nb",
+          "pages": ["a2p1.bin", "a2p2.bin"],
+          "legende": "Vacances" }
       ]
     }
   ]
