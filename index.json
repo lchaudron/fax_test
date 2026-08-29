@@ -7,7 +7,7 @@
       "items": [
         { "id": "a1", "type": "photo", "format": "4g",
           "pages": ["a1.bin"], "legende": "Le chat" },
-        { "id": "a2", "type": "postale", "format": "nb",
+        { "id": "a2", "type": "postale", "format": "4g",
           "pages": ["a2p1.bin", "a2p2.bin"], "legende": "Vacances" }
       ]
     }
